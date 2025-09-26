@@ -1,0 +1,16 @@
+.col1 {
+  position: absolute;
+  left: 950px;  /* mueve a la derecha */
+}
+.col2 {
+  position: absolute;
+  left: 1050px;  /* mueve a la derecha */
+}
+.col3 {
+  position: absolute;
+  left: 1250px;  /* mueve a la derecha */
+}
+.hola {
+  position: absolute;
+  left: 1350px;  /* mueve a la derecha */
+}

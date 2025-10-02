@@ -1,16 +1,221 @@
 .col1 {
-  position: absolute;
-  left: 950px;  /* mueve a la derecha */
+  position: relative;
+  left: 1950px;  /* mueve a la derecha */
 }
 .col2 {
   position: absolute;
-  left: 1050px;  /* mueve a la derecha */
+  left: 557px;  /* mueve a la derecha */
 }
 .col3 {
   position: absolute;
-  left: 1250px;  /* mueve a la derecha */
+  left: -1250px;  /* mueve a la derecha */
 }
 .hola {
   position: absolute;
-  left: 1350px;  /* mueve a la derecha */
+  left: 350px;  /* mueve a la derecha */
 }
+
+.col1 {
+  position: absolute;
+  left: -250px;  /* mueve a la derecha */
+}
+.col2 {
+  position: absolute;
+  margin-left: -650px;  /* mueve a la izquierda */
+}
+.col3 {
+  position: absolute;
+  left: 150px;  /* mueve a la derecha */
+}
+.hola {
+  position: absolute;
+  left: 100;  /* mueve a la derecha */
+}
+    body {
+      background: #fff;
+      text-align: center;
+      padding: 20px;
+    }
+    .nyt-font {
+      font-family: 'UnifrakturCook', cursive;
+      font-size: 60px;
+      font-weight: 700;
+      margin-top: 50px;
+    }
+    .text { 
+      position: absolute;
+       font-weight: 600;
+      font-size: 20px; 
+      left: 200px;
+      margin-top: 10px;
+    }
+        .text1 { 
+      position: relative;
+      margin-top: 10px;
+       font-weight: 600;
+      font-size: 15px; 
+      left: 800px;
+    }
+      .col6{
+        position: absolute;
+        margin-top: 30px;
+        left: 650px; 
+      }
+      .col5{
+        position: absolute;
+        margin-top: 30px;
+        left: 450px;
+      }
+      .col7{
+        position: absolute;
+        left: 900px;
+        margin-top: 30px;
+      }
+      .col8{
+        position: absolute;
+        left: 1150px;
+        margin-top: 30px;
+      }
+      .col9{
+        position: absolute;
+        left: 1350px;
+        margin-top: 30px;
+      }
+      .col10{
+        position: absolute;
+        left: 1550px;
+        margin-top: 30px;
+      }
+      .col11{
+        position: absolute;
+        left: 1650px;
+        margin-top: 30px;
+      }
+      .col12{
+        position: absolute;
+        left: 1750px;
+        margin-top: 30px;
+      }
+      .col13{
+        position: absolute;
+        left: 1850px;
+        margin-top: 30px;
+      }
+
+.fox1{
+  position: absolute;
+ margin-top: 100px;
+ left: 360px;
+}
+.fox2{
+  position: absolute;
+ margin-top: 150px;
+ left: 360px;
+}
+.fox3{
+  position: absolute;
+ margin-top: 170px;
+ left: 360px;
+}
+.fox4{
+  position: absolute;
+ margin-top: 100px;
+ left: 1400px;
+}
+.fox4{
+  position: absolute;
+ margin-top: 100px;
+ left: 1400px;
+}
+.fox5{
+  position: absolute;
+ margin-top: 150px;
+ left: 1400px;
+}
+.fox6{
+  position: absolute;
+ margin-top: 170px;
+ left: 1400px;
+}
+
+    .btn-suscribete {
+      position: absolute;
+      background-color: #426eb5; /* rojo llamativo */
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      border-radius: 25px;
+      font-size: 16px;
+      font-weight: bold;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      display: inline-block; /* se asegura que se muestre */
+      margin: 180px; /* espacio alrededor */
+      left: 1700px;
+    }
+    .pie{
+      position: absolute;
+      margin-top: 90px;
+      width: 150px;
+      left: 190px;
+    }
+    .pie1{
+      position: absolute;
+      margin-top: 90px;
+      width: 150px;
+      left: 1220px;
+    }
+    .pie2{
+      position: absolute;
+      margin-top: 300px;
+      width: 1200px;
+      left: 190px;
+    }
+    .pie3{
+      position: absolute;
+      margin-top: 300px;
+      width: 450px;
+      left: 1420px;
+    }
+    .fox7{
+     position: absolute;
+     font-weight: 900;
+     margin-top: 630px;
+     left: 1420px;
+    }
+    .fox8{
+     position: absolute;
+     width: 300px;
+     font-weight: 600;
+     margin-top: 670px;
+     left: 1420px;
+    }
+    .fox9{
+     position: absolute;
+     font-weight: 900;
+     margin-top: 310px;
+     left: 1950px;
+     width: 300px;;
+    }
+    .fox10{
+     position: absolute;
+     font-weight: 600;
+     margin-top: 410px;
+     left: 1950px;
+     width: 300px;;
+    }
+    .fox11{
+     position: absolute;
+     font-weight: 900;
+     margin-top: 610px;
+     left: 1950px;
+     width: 300px;;
+    }
+    .fox12{
+     position: absolute;
+     font-weight: 600;
+     margin-top: 710px;
+     left: 1950px;
+     width: 300px;;
+    }
+    
